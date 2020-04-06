@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pertemuan5</string>
+    <string name="ayo">GO!!!</string>
+    <string-array name="countries_arry"><item>1. Beras</item><item>2. Gula</item><item>3. Telur</item><item>3. Minyak</item></string-array>
+</resources>
